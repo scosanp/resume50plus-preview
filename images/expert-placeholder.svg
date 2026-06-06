@@ -1,0 +1,12 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Портрет эксперта placeholder">
+  <rect width="720" height="720" fill="#FFFDF7"/>
+  <rect x="24" y="24" width="672" height="672" fill="#F7F5EF" stroke="#171717" stroke-width="16"/>
+  <circle cx="360" cy="252" r="112" fill="#F2B84B" stroke="#171717" stroke-width="14"/>
+  <path d="M194 608C213 489 277 426 360 426C443 426 507 489 526 608" fill="#1257FF"/>
+  <path d="M194 608C213 489 277 426 360 426C443 426 507 489 526 608" stroke="#171717" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M278 244H322" stroke="#171717" stroke-width="12" stroke-linecap="square"/>
+  <path d="M398 244H442" stroke="#171717" stroke-width="12" stroke-linecap="square"/>
+  <path d="M312 308C342 332 382 332 412 308" stroke="#171717" stroke-width="12" stroke-linecap="square"/>
+  <rect x="76" y="76" width="166" height="42" fill="#1257FF" stroke="#171717" stroke-width="10"/>
+  <rect x="482" y="622" width="118" height="32" fill="#F2B84B" stroke="#171717" stroke-width="10"/>
+</svg>

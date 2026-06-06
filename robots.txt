@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://resume50plus.ru/sitemap.xml
